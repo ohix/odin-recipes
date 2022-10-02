@@ -1,0 +1,37 @@
+body {
+    background: #f2eecb;
+    font-family: Helvetica, sans-serif;
+}
+
+img {
+    max-width: 65%;
+    height: auto;
+}
+
+button {
+    background-color: #f2eecb;
+}
+
+button:hover {
+    background-color: #D9D6B6;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: grey;
+}
+
+/* mouse over link */
+a:hover {
+    color: grey;
+}
+
+/* selected link */
+a:active {
+    color: grey;
+}
